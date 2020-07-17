@@ -12,3 +12,4 @@ def determinaraprobado(promedio):
 
 promedio = float(input ("Promedio: "))
 print(determinaraprobado(promedio))
+#muy buen codigo muchacho, acepta mi solicitud de extraccion para que aparezca este comentario en tu repositorio
